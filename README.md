@@ -4,7 +4,7 @@
 This project is ideally suited for individuals looking for an effective way to identify signals for accumulating Bitcoin (BTC) as a savings strategy. It leverages the CDC Action Zone buy signals, a popular technical analysis indicator widely associated with the teachings of Lecturer Tumm Piriya the "Piranha" methodology in Thailand. By visualizing these key indicators, users can potentially make more informed decisions regarding their BTC accumulation efforts.
 
 ## Display Preview
-![BTC Price & CDC Action Zone on LilyGo T-Display S3](images/cdc_display.jpg)
+![](images/cdc_display.jpg)
 
 This project displays the current Bitcoin (BTC) price and the CDC Action Zone chart on the TFT screen of the LilyGo T-Display S3 board (or any ESP32 with a TFT screen that supports TFT_eSPI) by fetching price data from the Binance API.
 
