@@ -1,4 +1,4 @@
-BTC Price & CDC Action Zone Display (ESP32 T-Display S3)
+# BTC Price & CDC Action Zone Display (ESP32 T-Display S3)
 
 🎯 Ideal Use Case
 This project is ideally suited for individuals looking for an effective way to identify signals for accumulating Bitcoin (BTC) as a savings strategy. It leverages the CDC Action Zone buy signals, a popular technical analysis indicator widely associated with the teachings of Lecturer Tumm Piriya the "Piranha" methodology in Thailand. By visualizing these key indicators, users can potentially make more informed decisions regarding their BTC accumulation efforts.
