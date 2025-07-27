@@ -5,7 +5,7 @@ This project is ideally suited for individuals looking for an effective way to i
 
 ## Display Preview
 
-![](images/cdc_display.jpg)
+![]images/cdc_display.JPG
 
 This project displays the current Bitcoin (BTC) price and the CDC Action Zone chart on the TFT screen of the LilyGo T-Display S3 board (or any ESP32 with a TFT screen that supports TFT_eSPI) by fetching price data from the Binance API.
 
